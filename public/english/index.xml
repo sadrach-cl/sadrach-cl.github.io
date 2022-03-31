@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Englishes on Sadrach</title>
+    <link>https://sadrach.site/english/</link>
+    <description>Recent content in Englishes on Sadrach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language><atom:link href="https://sadrach.site/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sadrach</title>
+      <link>https://sadrach.site/english/author/sadrach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sadrach.site/english/author/sadrach/</guid>
+      <description>Yes, sadrach is my real name. I live in Santiago, Chile. I am not a programmer nor a designer. I&amp;rsquo;m a technology enthusiast, that&amp;rsquo;s why I know a little bit about design, programming and electronics&amp;hellip; wait a minute, I&amp;rsquo;m an electronics technician!</description>
+    </item>
+    
+  </channel>
+</rss>
